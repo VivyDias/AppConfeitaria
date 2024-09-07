@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="confeitaria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/confeitaria_jar</output-path>
+    <root id="archive" name="confeitaria.jar">
+      <element id="module-output" name="confeitaria" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-42.7.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="confeitaria" />
+    </root>
+  </artifact>
+</component>
